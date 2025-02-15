@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YusufAnfasya
 - 👀 I’m interested in Mobile Progamming
 - 🌱 I’m currently learning at ITS
-- 💞️ I’m looking to collaborate on Android n IOS
+- 💞️ I’m looking to collaborate Laravel and Java
 - 📫 How to reach me yanfasya71@gmail.com
 
 <!---
